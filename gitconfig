@@ -3,6 +3,10 @@
 	name = Grant McNaught
 	# Email used in commit messages.
 	email = grant.mcnaught@gmail.com
+[includeIf "hasconfig:remote.*.url:ssh://git@gitlab.com/**"]
+ path= .gitconfig-github
+[includeIf "hasconfig:remote.*.url:ssh://git@github.com/**"]
+ path= .gitconfig-gitlab
 [github]
 	# GitHub username for command-line tools.
 	user = gmcnaught
