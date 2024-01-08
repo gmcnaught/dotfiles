@@ -1,6 +1,4 @@
 [user]
-      email = 1371263+gmcnaught@users.noreply.github.com
-      name = gmcnaught
-      signingkey = 62F103C3BC303777
-[commit]
-  gpgsign = true
+email = 1371263+gmcnaught@users.noreply.github.com
+name = Grant McNaught
+signingkey = 62F103C3BC303777

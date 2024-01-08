@@ -53,6 +53,8 @@ cask "elgato-camera-hub"
 cask "elgato-control-center"
 # Configure Wave Link and Wave XLR
 cask "elgato-wave-link"
+# Elgato Stream Deck Tools
+cask "elgato-stream-deck"
 cask "font-abel"
 cask "font-fjalla-one"
 # Variable font designed for display
