@@ -30,10 +30,11 @@ brew "pngcrush"
 brew "shellcheck"
 # Autoformat shell script source code
 brew "shfmt"
-# Watch files and take action when they change
+# Terraform multi-version support
 brew "tfenv"
+# Terraform Linting
 brew "tflint"
-brew "watchman"
+
 # Internet file retriever
 brew "wget"
 # Linter for YAML files
@@ -67,7 +68,7 @@ cask 'font-roboto'
 cask 'font-jetbrains-mono'
 cask 'font-source-code-pro-for-powerline'
 cask 'font-source-code-pro'
-cask 'font-source-sans-pro'
+
 
 cask "grammarly"
 # Tool to prevent the system from going into sleep mode
